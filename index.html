@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="description" content="Selector profesional de tomas y clavijas VCP ELECTRIC." />
+		<title>VCP ELECTRIC | Selector de Tomas & Clavijas</title>
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
+		<link rel="stylesheet" href="styles.css" />
+	</head>
+	<body>
+		<header class="site-header">
+			<div class="brand-lockup">
+				<div class="brand-mark" aria-hidden="true">VCP</div>
+				<div>
+					<p class="brand-name">VCP ELECTRIC</p>
+					<p class="brand-context">SELECTOR DE TOMAS &amp; CLAVIJAS</p>
+				</div>
+			</div>
+
+			<div class="header-search" role="search">
+				<label class="sr-only" for="codeSearch">Buscar por código VCP</label>
+				<span class="search-symbol" aria-hidden="true">⌕</span>
+				<input id="codeSearch" type="search" placeholder="Buscar código VCP, ej. VTC0001B" autocomplete="off" />
+				<button id="searchButton" class="button button-dark" type="button">Buscar</button>
+			</div>
+		</header>
+
+		<main class="page-shell">
+			<section class="intro-row">
+				<div>
+					<p class="eyebrow">Herramienta de selección técnica</p>
+					<h1>Encuentra el producto VCP que necesitas</h1>
+					<p class="intro-copy">Selecciona las características de tu aplicación y encuentra las opciones compatibles.</p>
+				</div>
+				<button id="resetButton" class="button button-outline" type="button"><span aria-hidden="true">↺</span> Reiniciar selector</button>
+			</section>
+
+			<section class="workspace" aria-label="Selector VCP">
+				<aside class="filter-panel">
+					<div class="panel-heading">
+						<div>
+							<p class="eyebrow">Configuración</p>
+							<h2>Define tu aplicación</h2>
+						</div>
+						<span id="progressLabel" class="progress-label">0 / 5</span>
+					</div>
+					<div class="progress-track" aria-hidden="true"><span id="progressBar"></span></div>
+
+					<form id="selectorForm" class="filter-form">
+						<label class="filter-field">
+							<span><b>01</b> Tipo</span>
+							<select id="tipo" data-filter="tipo"><option value="">Selecciona un tipo</option></select>
+						</label>
+						<label class="filter-field">
+							<span><b>02</b> Amperaje</span>
+							<select id="amperaje" data-filter="amperaje" disabled><option value="">Selecciona el amperaje</option></select>
+						</label>
+						<label class="filter-field">
+							<span><b>03</b> Configuración</span>
+							<select id="configuracion" data-filter="configuracion" disabled><option value="">Selecciona la configuración</option></select>
+						</label>
+						<label class="filter-field">
+							<span><b>04</b> Protección IP</span>
+							<select id="ip" data-filter="ip" disabled><option value="">Selecciona el grado IP</option></select>
+						</label>
+						<label class="filter-field">
+							<span><b>05</b> Voltaje</span>
+							<select id="voltaje" data-filter="voltaje" disabled><option value="">Selecciona el voltaje</option></select>
+						</label>
+					</form>
+
+					<div class="filter-note">
+						<span class="note-mark" aria-hidden="true">i</span>
+						<p>Las opciones se actualizan según la selección anterior para mostrar solo combinaciones reales.</p>
+					</div>
+				</aside>
+
+				<section class="results-panel" aria-live="polite">
+					<div class="results-heading">
+						<div>
+							<p class="eyebrow">Catálogo VCP</p>
+							<h2 id="resultsTitle">Productos compatibles</h2>
+						</div>
+						<span id="resultsCount" class="results-count">0 opciones</span>
+					</div>
+					<p id="resultsSummary" class="results-summary">Completa los cinco filtros para consultar productos compatibles.</p>
+					<div id="statusMessage" class="status-message" role="status"></div>
+					<div id="resultsGrid" class="results-grid"></div>
+				</section>
+			</section>
+		</main>
+
+		<footer class="site-footer"><span>VCP ELECTRIC</span><span>Selección técnica para tomas &amp; clavijas</span></footer>
+		<script src="script.js"></script>
+	</body>
+</html>

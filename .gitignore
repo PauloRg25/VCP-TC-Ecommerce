@@ -1,0 +1,5 @@
+VCP_T&C_Selector_2026_v2_gye.xlsx
+__pycache__/
+*.pyc
+.venv/
+download_images.py

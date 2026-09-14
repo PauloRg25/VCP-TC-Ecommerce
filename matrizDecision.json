@@ -1,0 +1,1891 @@
+{
+  "filtros": [
+    "tipo",
+    "amperaje",
+    "configuracion",
+    "ip",
+    "voltaje"
+  ],
+  "opcionesIniciales": [
+    "TOMA SOBREPONER",
+    "TOMA AEREA",
+    "TOMA INCRUSTAR",
+    "CLAVIJA 45°",
+    "CLAVIJA"
+  ],
+  "opcionesDependientes": {
+    "tipo": {
+      "TOMA SOBREPONER": [
+        "16A",
+        "32A",
+        "63A",
+        "125A"
+      ],
+      "TOMA AEREA": [
+        "16A",
+        "32A",
+        "63A",
+        "125A"
+      ],
+      "TOMA INCRUSTAR": [
+        "16A",
+        "32A",
+        "63A",
+        "125A"
+      ],
+      "CLAVIJA 45°": [
+        "16A",
+        "32A",
+        "125A"
+      ],
+      "CLAVIJA": [
+        "16A",
+        "32A",
+        "63A",
+        "125A"
+      ]
+    },
+    "tipo|amperaje": {
+      "TOMA SOBREPONER|16A": [
+        "2P+T",
+        "3P+T",
+        "3P+N+T"
+      ],
+      "TOMA AEREA|16A": [
+        "2P+T",
+        "3P+T",
+        "3P+N+T"
+      ],
+      "TOMA INCRUSTAR|16A": [
+        "2P+T",
+        "3P+T",
+        "3P+N+T"
+      ],
+      "CLAVIJA 45°|16A": [
+        "2P+T",
+        "3P+T"
+      ],
+      "CLAVIJA|16A": [
+        "2P+T",
+        "3P+T",
+        "3P+N+T"
+      ],
+      "TOMA SOBREPONER|32A": [
+        "2P+T",
+        "3P+T",
+        "3P+N+T"
+      ],
+      "TOMA AEREA|32A": [
+        "2P+T",
+        "3P+T",
+        "3P+N+T"
+      ],
+      "TOMA INCRUSTAR|32A": [
+        "2P+T",
+        "3P+T",
+        "3P+N+T"
+      ],
+      "CLAVIJA 45°|32A": [
+        "2P+T",
+        "3P+T",
+        "3P+N+T"
+      ],
+      "CLAVIJA|32A": [
+        "2P+T",
+        "3P+T",
+        "3P+N+T"
+      ],
+      "TOMA AEREA|63A": [
+        "3P+N+T",
+        "3P+T"
+      ],
+      "TOMA INCRUSTAR|63A": [
+        "3P+N+T",
+        "3P+T"
+      ],
+      "TOMA SOBREPONER|63A": [
+        "3P+N+T",
+        "3P+T"
+      ],
+      "CLAVIJA|63A": [
+        "3P+N+T",
+        "3P+T"
+      ],
+      "TOMA AEREA|125A": [
+        "3P+N+T",
+        "3P+T"
+      ],
+      "CLAVIJA 45°|125A": [
+        "3P+N+T"
+      ],
+      "TOMA SOBREPONER|125A": [
+        "3P+T",
+        "3P+N+T"
+      ],
+      "TOMA INCRUSTAR|125A": [
+        "3P+T",
+        "3P+N+T"
+      ],
+      "CLAVIJA|125A": [
+        "3P+T",
+        "3P+N+T"
+      ]
+    },
+    "tipo|amperaje|configuracion": {
+      "TOMA SOBREPONER|16A|2P+T": [
+        "IP44",
+        "IP67"
+      ],
+      "TOMA AEREA|16A|2P+T": [
+        "IP44",
+        "IP67"
+      ],
+      "TOMA INCRUSTAR|16A|2P+T": [
+        "IP44",
+        "IP67"
+      ],
+      "CLAVIJA 45°|16A|2P+T": [
+        "IP44",
+        "IP67"
+      ],
+      "CLAVIJA|16A|2P+T": [
+        "IP44",
+        "IP67"
+      ],
+      "TOMA SOBREPONER|32A|2P+T": [
+        "IP44",
+        "IP67"
+      ],
+      "TOMA AEREA|32A|2P+T": [
+        "IP44",
+        "IP67"
+      ],
+      "TOMA INCRUSTAR|32A|2P+T": [
+        "IP44",
+        "IP67"
+      ],
+      "CLAVIJA 45°|32A|2P+T": [
+        "IP44",
+        "IP67"
+      ],
+      "CLAVIJA|32A|2P+T": [
+        "IP44",
+        "IP67"
+      ],
+      "TOMA SOBREPONER|16A|3P+T": [
+        "IP44",
+        "IP67"
+      ],
+      "TOMA AEREA|16A|3P+T": [
+        "IP44",
+        "IP67"
+      ],
+      "TOMA INCRUSTAR|16A|3P+T": [
+        "IP44",
+        "IP67"
+      ],
+      "CLAVIJA|16A|3P+T": [
+        "IP44",
+        "IP67"
+      ],
+      "TOMA SOBREPONER|32A|3P+T": [
+        "IP44",
+        "IP67"
+      ],
+      "TOMA AEREA|32A|3P+T": [
+        "IP44",
+        "IP67"
+      ],
+      "TOMA INCRUSTAR|32A|3P+T": [
+        "IP44",
+        "IP67"
+      ],
+      "CLAVIJA|32A|3P+T": [
+        "IP44",
+        "IP67"
+      ],
+      "CLAVIJA 45°|16A|3P+T": [
+        "IP67",
+        "IP44"
+      ],
+      "CLAVIJA 45°|32A|3P+T": [
+        "IP67",
+        "IP44"
+      ],
+      "TOMA SOBREPONER|32A|3P+N+T": [
+        "IP67",
+        "IP44"
+      ],
+      "TOMA AEREA|32A|3P+N+T": [
+        "IP67",
+        "IP44"
+      ],
+      "TOMA INCRUSTAR|32A|3P+N+T": [
+        "IP67",
+        "IP44"
+      ],
+      "CLAVIJA 45°|32A|3P+N+T": [
+        "IP67"
+      ],
+      "CLAVIJA|32A|3P+N+T": [
+        "IP67",
+        "IP44"
+      ],
+      "TOMA SOBREPONER|16A|3P+N+T": [
+        "IP44"
+      ],
+      "TOMA AEREA|16A|3P+N+T": [
+        "IP44"
+      ],
+      "TOMA INCRUSTAR|16A|3P+N+T": [
+        "IP44"
+      ],
+      "CLAVIJA|16A|3P+N+T": [
+        "IP44"
+      ],
+      "TOMA AEREA|63A|3P+N+T": [
+        "IP67"
+      ],
+      "TOMA INCRUSTAR|63A|3P+N+T": [
+        "IP67"
+      ],
+      "TOMA SOBREPONER|63A|3P+N+T": [
+        "IP67"
+      ],
+      "CLAVIJA|63A|3P+N+T": [
+        "IP67"
+      ],
+      "TOMA AEREA|125A|3P+N+T": [
+        "IP67"
+      ],
+      "CLAVIJA 45°|125A|3P+N+T": [
+        "IP67"
+      ],
+      "TOMA SOBREPONER|63A|3P+T": [
+        "IP67"
+      ],
+      "TOMA AEREA|63A|3P+T": [
+        "IP67"
+      ],
+      "TOMA INCRUSTAR|63A|3P+T": [
+        "IP67"
+      ],
+      "CLAVIJA|63A|3P+T": [
+        "IP67"
+      ],
+      "TOMA SOBREPONER|125A|3P+T": [
+        "IP67"
+      ],
+      "TOMA AEREA|125A|3P+T": [
+        "IP67"
+      ],
+      "TOMA INCRUSTAR|125A|3P+T": [
+        "IP67"
+      ],
+      "CLAVIJA|125A|3P+T": [
+        "IP67"
+      ],
+      "TOMA SOBREPONER|125A|3P+N+T": [
+        "IP67"
+      ],
+      "TOMA INCRUSTAR|125A|3P+N+T": [
+        "IP67"
+      ],
+      "CLAVIJA|125A|3P+N+T": [
+        "IP67"
+      ]
+    },
+    "tipo|amperaje|configuracion|ip": {
+      "TOMA SOBREPONER|16A|2P+T|IP44": [
+        "220 VAC",
+        "110 VAC"
+      ],
+      "TOMA AEREA|16A|2P+T|IP44": [
+        "220 VAC",
+        "110 VAC"
+      ],
+      "TOMA INCRUSTAR|16A|2P+T|IP44": [
+        "220 VAC",
+        "110 VAC"
+      ],
+      "CLAVIJA 45°|16A|2P+T|IP44": [
+        "220 VAC"
+      ],
+      "CLAVIJA|16A|2P+T|IP44": [
+        "220 VAC",
+        "110 VAC"
+      ],
+      "TOMA SOBREPONER|32A|2P+T|IP44": [
+        "220 VAC",
+        "110 VAC"
+      ],
+      "TOMA AEREA|32A|2P+T|IP44": [
+        "220 VAC",
+        "110 VAC"
+      ],
+      "TOMA INCRUSTAR|32A|2P+T|IP44": [
+        "220 VAC",
+        "110 VAC"
+      ],
+      "CLAVIJA 45°|32A|2P+T|IP44": [
+        "220 VAC"
+      ],
+      "CLAVIJA|32A|2P+T|IP44": [
+        "220 VAC",
+        "110 VAC"
+      ],
+      "TOMA SOBREPONER|16A|3P+T|IP44": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "TOMA AEREA|16A|3P+T|IP44": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "TOMA INCRUSTAR|16A|3P+T|IP44": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "CLAVIJA|16A|3P+T|IP44": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "TOMA SOBREPONER|32A|3P+T|IP44": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "TOMA AEREA|32A|3P+T|IP44": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "TOMA INCRUSTAR|32A|3P+T|IP44": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "CLAVIJA|32A|3P+T|IP44": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "TOMA SOBREPONER|16A|2P+T|IP67": [
+        "220 VAC",
+        "110 VAC"
+      ],
+      "TOMA AEREA|16A|2P+T|IP67": [
+        "220 VAC",
+        "110 VAC"
+      ],
+      "TOMA INCRUSTAR|16A|2P+T|IP67": [
+        "220 VAC",
+        "110 VAC"
+      ],
+      "CLAVIJA 45°|16A|2P+T|IP67": [
+        "220 VAC",
+        "110 VAC"
+      ],
+      "CLAVIJA|16A|2P+T|IP67": [
+        "220 VAC",
+        "110 VAC"
+      ],
+      "TOMA SOBREPONER|16A|3P+T|IP67": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "TOMA AEREA|16A|3P+T|IP67": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "TOMA INCRUSTAR|16A|3P+T|IP67": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "CLAVIJA 45°|16A|3P+T|IP67": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "CLAVIJA|16A|3P+T|IP67": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "TOMA SOBREPONER|32A|3P+T|IP67": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "TOMA AEREA|32A|3P+T|IP67": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "TOMA INCRUSTAR|32A|3P+T|IP67": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "CLAVIJA 45°|32A|3P+T|IP67": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "CLAVIJA|32A|3P+T|IP67": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "TOMA SOBREPONER|32A|3P+N+T|IP67": [
+        "220 VAC",
+        "440 VAC",
+        "500 VAC"
+      ],
+      "TOMA AEREA|32A|3P+N+T|IP67": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "TOMA INCRUSTAR|32A|3P+N+T|IP67": [
+        "220 VAC",
+        "440 VAC",
+        "500 VAC"
+      ],
+      "CLAVIJA 45°|32A|3P+N+T|IP67": [
+        "220 VAC",
+        "500 VAC"
+      ],
+      "CLAVIJA|32A|3P+N+T|IP67": [
+        "220 VAC",
+        "440 VAC",
+        "500 VAC"
+      ],
+      "TOMA SOBREPONER|16A|3P+N+T|IP44": [
+        "220 VAC"
+      ],
+      "TOMA AEREA|16A|3P+N+T|IP44": [
+        "220 VAC"
+      ],
+      "TOMA INCRUSTAR|16A|3P+N+T|IP44": [
+        "220 VAC"
+      ],
+      "CLAVIJA|16A|3P+N+T|IP44": [
+        "220 VAC"
+      ],
+      "TOMA SOBREPONER|32A|3P+N+T|IP44": [
+        "220 VAC"
+      ],
+      "TOMA AEREA|32A|3P+N+T|IP44": [
+        "220 VAC"
+      ],
+      "TOMA INCRUSTAR|32A|3P+N+T|IP44": [
+        "220 VAC"
+      ],
+      "CLAVIJA|32A|3P+N+T|IP44": [
+        "220 VAC"
+      ],
+      "TOMA AEREA|63A|3P+N+T|IP67": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "TOMA INCRUSTAR|63A|3P+N+T|IP67": [
+        "220 VAC",
+        "440 VAC",
+        "500 VAC"
+      ],
+      "TOMA SOBREPONER|63A|3P+N+T|IP67": [
+        "220 VAC",
+        "440 VAC",
+        "500 VAC"
+      ],
+      "CLAVIJA|63A|3P+N+T|IP67": [
+        "220 VAC",
+        "440 VAC",
+        "500 VAC"
+      ],
+      "TOMA AEREA|32A|2P+T|IP67": [
+        "220 VAC",
+        "110 VAC"
+      ],
+      "CLAVIJA|32A|2P+T|IP67": [
+        "220 VAC",
+        "110 VAC"
+      ],
+      "TOMA AEREA|125A|3P+N+T|IP67": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "CLAVIJA 45°|125A|3P+N+T|IP67": [
+        "220 VAC",
+        "440 VAC"
+      ],
+      "CLAVIJA 45°|16A|3P+T|IP44": [
+        "440 VAC"
+      ],
+      "CLAVIJA 45°|32A|3P+T|IP44": [
+        "440 VAC"
+      ],
+      "TOMA SOBREPONER|63A|3P+T|IP67": [
+        "440 VAC"
+      ],
+      "TOMA AEREA|63A|3P+T|IP67": [
+        "440 VAC"
+      ],
+      "TOMA INCRUSTAR|63A|3P+T|IP67": [
+        "440 VAC"
+      ],
+      "CLAVIJA|63A|3P+T|IP67": [
+        "440 VAC"
+      ],
+      "TOMA SOBREPONER|125A|3P+T|IP67": [
+        "440 VAC"
+      ],
+      "TOMA AEREA|125A|3P+T|IP67": [
+        "440 VAC"
+      ],
+      "TOMA INCRUSTAR|125A|3P+T|IP67": [
+        "440 VAC"
+      ],
+      "CLAVIJA|125A|3P+T|IP67": [
+        "440 VAC"
+      ],
+      "TOMA SOBREPONER|32A|2P+T|IP67": [
+        "110 VAC"
+      ],
+      "TOMA INCRUSTAR|32A|2P+T|IP67": [
+        "110 VAC"
+      ],
+      "CLAVIJA 45°|32A|2P+T|IP67": [
+        "110 VAC"
+      ],
+      "TOMA SOBREPONER|125A|3P+N+T|IP67": [
+        "500 VAC"
+      ],
+      "TOMA INCRUSTAR|125A|3P+N+T|IP67": [
+        "500 VAC"
+      ],
+      "CLAVIJA|125A|3P+N+T|IP67": [
+        "500 VAC"
+      ]
+    }
+  },
+  "combinaciones": [
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "16A",
+      "configuracion": "2P+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0001B"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "16A",
+      "configuracion": "2P+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0002B"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "16A",
+      "configuracion": "2P+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0003B"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA 45°",
+      "amperaje": "16A",
+      "configuracion": "2P+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0033B",
+        "VTC0035B"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "16A",
+      "configuracion": "2P+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0004B"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "32A",
+      "configuracion": "2P+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0005B"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "32A",
+      "configuracion": "2P+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0006B"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "32A",
+      "configuracion": "2P+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0007B"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA 45°",
+      "amperaje": "32A",
+      "configuracion": "2P+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0034B",
+        "VTC0036B"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "32A",
+      "configuracion": "2P+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0008B"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "16A",
+      "configuracion": "3P+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0009B"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "16A",
+      "configuracion": "3P+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0010B"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "16A",
+      "configuracion": "3P+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0011B"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "16A",
+      "configuracion": "3P+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0012B"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "32A",
+      "configuracion": "3P+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0013B"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "32A",
+      "configuracion": "3P+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0014B"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "32A",
+      "configuracion": "3P+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0015B"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "32A",
+      "configuracion": "3P+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0016B"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "16A",
+      "configuracion": "2P+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0017B"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "16A",
+      "configuracion": "2P+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0018B"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "16A",
+      "configuracion": "2P+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0041B",
+        "VTC0019B"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA 45°",
+      "amperaje": "16A",
+      "configuracion": "2P+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0037B"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "16A",
+      "configuracion": "2P+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0020B"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "16A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0021B"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "16A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0022B"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "16A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0042B",
+        "VTC0023B"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA 45°",
+      "amperaje": "16A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0038B"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "16A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0024B"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "32A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0025B"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "32A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0026B"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "32A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0027B"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA 45°",
+      "amperaje": "32A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0039B"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "32A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0028B"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "32A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0029B"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "32A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0030B"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "32A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0031B"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA 45°",
+      "amperaje": "32A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0040B"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "32A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0032B"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "16A",
+      "configuracion": "3P+N+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0043B"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "16A",
+      "configuracion": "3P+N+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0044B"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "16A",
+      "configuracion": "3P+N+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0045B"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "16A",
+      "configuracion": "3P+N+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0046B"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "32A",
+      "configuracion": "3P+N+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0047B"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "32A",
+      "configuracion": "3P+N+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0048B"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "32A",
+      "configuracion": "3P+N+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0049B"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "32A",
+      "configuracion": "3P+N+T",
+      "ip": "IP44",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0050B"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "63A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0055B"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "63A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0056B"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "63A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0057B"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "63A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0058B"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "32A",
+      "configuracion": "2P+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0054B"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "32A",
+      "configuracion": "2P+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0052B"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "125A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0053B"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA 45°",
+      "amperaje": "125A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "220 VAC",
+      "productos": [
+        "VTC0051B"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "16A",
+      "configuracion": "3P+T",
+      "ip": "IP44",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0001C"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "16A",
+      "configuracion": "3P+T",
+      "ip": "IP44",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0002C"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "16A",
+      "configuracion": "3P+T",
+      "ip": "IP44",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0003C"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA 45°",
+      "amperaje": "16A",
+      "configuracion": "3P+T",
+      "ip": "IP44",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0029C"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "16A",
+      "configuracion": "3P+T",
+      "ip": "IP44",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0004C"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "32A",
+      "configuracion": "3P+T",
+      "ip": "IP44",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0005C"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "32A",
+      "configuracion": "3P+T",
+      "ip": "IP44",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0006C"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "32A",
+      "configuracion": "3P+T",
+      "ip": "IP44",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0007C"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA 45°",
+      "amperaje": "32A",
+      "configuracion": "3P+T",
+      "ip": "IP44",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0030C"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "32A",
+      "configuracion": "3P+T",
+      "ip": "IP44",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0008C"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "16A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0009C"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "16A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0010C"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "16A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0034C",
+        "VTC0011C"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA 45°",
+      "amperaje": "16A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0031C"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "16A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0012C"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "32A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0013C",
+        "VTC0025C"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "32A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0014C",
+        "VTC0026C"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "32A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0015C",
+        "VTC0027C"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA 45°",
+      "amperaje": "32A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0032C"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "32A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0016C",
+        "VTC0028C"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "63A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0017C"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "63A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0018C"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "63A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0019C"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "63A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0020C"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "125A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0021C"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "125A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0022C"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "125A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0023C"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "125A",
+      "configuracion": "3P+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0024C"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "32A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0035C"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "32A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0036C"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "32A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0038C"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "32A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0037C"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "63A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0040C"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "63A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0042C"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "63A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0043C"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "63A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0044C"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA 45°",
+      "amperaje": "125A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0039C"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "125A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "440 VAC",
+      "productos": [
+        "VTC0041C"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "16A",
+      "configuracion": "2P+T",
+      "ip": "IP44",
+      "voltaje": "110 VAC",
+      "productos": [
+        "VTC0001A"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "16A",
+      "configuracion": "2P+T",
+      "ip": "IP44",
+      "voltaje": "110 VAC",
+      "productos": [
+        "VTC0002A"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "16A",
+      "configuracion": "2P+T",
+      "ip": "IP44",
+      "voltaje": "110 VAC",
+      "productos": [
+        "VTC0003A"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "16A",
+      "configuracion": "2P+T",
+      "ip": "IP44",
+      "voltaje": "110 VAC",
+      "productos": [
+        "VTC0004A"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "32A",
+      "configuracion": "2P+T",
+      "ip": "IP44",
+      "voltaje": "110 VAC",
+      "productos": [
+        "VTC0005A"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "32A",
+      "configuracion": "2P+T",
+      "ip": "IP44",
+      "voltaje": "110 VAC",
+      "productos": [
+        "VTC0006A"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "32A",
+      "configuracion": "2P+T",
+      "ip": "IP44",
+      "voltaje": "110 VAC",
+      "productos": [
+        "VTC0007A"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "32A",
+      "configuracion": "2P+T",
+      "ip": "IP44",
+      "voltaje": "110 VAC",
+      "productos": [
+        "VTC0008A"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "16A",
+      "configuracion": "2P+T",
+      "ip": "IP67",
+      "voltaje": "110 VAC",
+      "productos": [
+        "VTC0009A"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "16A",
+      "configuracion": "2P+T",
+      "ip": "IP67",
+      "voltaje": "110 VAC",
+      "productos": [
+        "VTC0010A"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "16A",
+      "configuracion": "2P+T",
+      "ip": "IP67",
+      "voltaje": "110 VAC",
+      "productos": [
+        "VTC0019A",
+        "VTC0011A"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA 45°",
+      "amperaje": "16A",
+      "configuracion": "2P+T",
+      "ip": "IP67",
+      "voltaje": "110 VAC",
+      "productos": [
+        "VTC0017A"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "16A",
+      "configuracion": "2P+T",
+      "ip": "IP67",
+      "voltaje": "110 VAC",
+      "productos": [
+        "VTC0012A"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "32A",
+      "configuracion": "2P+T",
+      "ip": "IP67",
+      "voltaje": "110 VAC",
+      "productos": [
+        "VTC0013A"
+      ]
+    },
+    {
+      "tipo": "TOMA AEREA",
+      "amperaje": "32A",
+      "configuracion": "2P+T",
+      "ip": "IP67",
+      "voltaje": "110 VAC",
+      "productos": [
+        "VTC0014A"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "32A",
+      "configuracion": "2P+T",
+      "ip": "IP67",
+      "voltaje": "110 VAC",
+      "productos": [
+        "VTC0015A"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA 45°",
+      "amperaje": "32A",
+      "configuracion": "2P+T",
+      "ip": "IP67",
+      "voltaje": "110 VAC",
+      "productos": [
+        "VTC0018A"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "32A",
+      "configuracion": "2P+T",
+      "ip": "IP67",
+      "voltaje": "110 VAC",
+      "productos": [
+        "VTC0016A"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "32A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "500 VAC",
+      "productos": [
+        "VTC0001D"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "32A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "500 VAC",
+      "productos": [
+        "VTC0011D",
+        "VTC0002D"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA 45°",
+      "amperaje": "32A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "500 VAC",
+      "productos": [
+        "VTC0010D"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "32A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "500 VAC",
+      "productos": [
+        "VTC0003D"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "63A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "500 VAC",
+      "productos": [
+        "VTC0004D"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "63A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "500 VAC",
+      "productos": [
+        "VTC0005D"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "63A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "500 VAC",
+      "productos": [
+        "VTC0006D"
+      ]
+    },
+    {
+      "tipo": "TOMA SOBREPONER",
+      "amperaje": "125A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "500 VAC",
+      "productos": [
+        "VTC0007D"
+      ]
+    },
+    {
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "125A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "500 VAC",
+      "productos": [
+        "VTC0008D"
+      ]
+    },
+    {
+      "tipo": "CLAVIJA",
+      "amperaje": "125A",
+      "configuracion": "3P+N+T",
+      "ip": "IP67",
+      "voltaje": "500 VAC",
+      "productos": [
+        "VTC0009D"
+      ]
+    }
+  ],
+  "productosIncompletos": [
+    {
+      "codigo": "VTC0001E",
+      "camposVacios": [
+        "amperaje",
+        "configuracion",
+        "voltaje"
+      ],
+      "tipo": "CAJA MULTISERVICIO",
+      "amperaje": null,
+      "configuracion": null,
+      "ip": "IP67",
+      "voltaje": null
+    },
+    {
+      "codigo": "VTC0002E",
+      "camposVacios": [
+        "amperaje",
+        "configuracion",
+        "voltaje"
+      ],
+      "tipo": "CAJA MULTISERVICIO",
+      "amperaje": null,
+      "configuracion": null,
+      "ip": "IP67",
+      "voltaje": null
+    },
+    {
+      "codigo": "VTC0003E",
+      "camposVacios": [
+        "amperaje",
+        "configuracion",
+        "voltaje"
+      ],
+      "tipo": "CAJA MULTISERVICIO",
+      "amperaje": null,
+      "configuracion": null,
+      "ip": "IP67",
+      "voltaje": null
+    },
+    {
+      "codigo": "VTC0004E",
+      "camposVacios": [
+        "amperaje",
+        "configuracion",
+        "voltaje"
+      ],
+      "tipo": "FLANGE ADAPTADOR",
+      "amperaje": null,
+      "configuracion": null,
+      "ip": "IP44",
+      "voltaje": null
+    },
+    {
+      "codigo": "VTC0005E",
+      "camposVacios": [
+        "amperaje",
+        "configuracion",
+        "voltaje"
+      ],
+      "tipo": "FLANGE ADAPTADOR",
+      "amperaje": null,
+      "configuracion": null,
+      "ip": "IP44",
+      "voltaje": null
+    },
+    {
+      "codigo": "VTC0006E",
+      "camposVacios": [
+        "amperaje",
+        "configuracion",
+        "voltaje"
+      ],
+      "tipo": "FLANGE ADAPTADOR",
+      "amperaje": null,
+      "configuracion": null,
+      "ip": "IP44",
+      "voltaje": null
+    },
+    {
+      "codigo": "VTC0007E",
+      "camposVacios": [
+        "amperaje",
+        "configuracion",
+        "voltaje"
+      ],
+      "tipo": "FLANGE ADAPTADOR",
+      "amperaje": null,
+      "configuracion": null,
+      "ip": "IP44",
+      "voltaje": null
+    },
+    {
+      "codigo": "VTC0008E",
+      "camposVacios": [
+        "voltaje"
+      ],
+      "tipo": "TOMA INCRUSTAR",
+      "amperaje": "15A",
+      "configuracion": "2P+T",
+      "ip": "IP44",
+      "voltaje": null
+    },
+    {
+      "codigo": "VTC0009E",
+      "camposVacios": [
+        "amperaje",
+        "configuracion",
+        "voltaje"
+      ],
+      "tipo": "MANIJA METALICA",
+      "amperaje": null,
+      "configuracion": null,
+      "ip": "-",
+      "voltaje": null
+    }
+  ]
+}
