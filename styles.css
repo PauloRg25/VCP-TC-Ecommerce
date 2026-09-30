@@ -308,3 +308,58 @@ h1, h2, h3 { color: #f6f6f5; }
 		width: 100%;
 	}
 }
+
+/* VCP Electric brand application */
+:root {
+	--ink: #000000;
+	--muted: #62676c;
+	--paper: #f5f6f7;
+	--surface: #ffffff;
+	--line: #c1c5c8;
+	--green: #f93549;
+	--green-dark: #000000;
+	--lime: #f93549;
+	--orange: #f93549;
+	--shadow: 0 10px 28px rgba(0, 0, 0, .07);
+}
+
+body { color: var(--ink); background: var(--paper); }
+.site-header { min-height: 92px; border-bottom: 0; background: #000; box-shadow: none; }
+.brand-lockup { gap: 18px; }
+.brand-logo { display: block; width: 132px; max-width: 42vw; height: auto; flex: 0 0 auto; object-fit: contain; }
+.brand-context { margin: 0; padding-left: 18px; color: #c1c5c8; border-left: 1px solid #62676c; }
+.header-search { border-color: #62676c; background: #111315; }
+.header-search input::placeholder { color: #c1c5c8; }
+.search-symbol { color: #f93549; }
+.eyebrow, .progress-label, .results-count, .filter-field b, .product-code { color: #b51f32; }
+h1, h2, h3, .empty-state strong { color: #000; }
+.intro-copy, .results-summary, .product-reference { color: #62676c; }
+.button-dark { color: #000; background: #f93549; box-shadow: none; }
+.button-dark:hover, .link-whatsapp:hover { color: #fff; background: #ce1f36; }
+.button-outline { color: #000; border-color: #c1c5c8; background: #fff; }
+.button-outline:hover { border-color: #f93549; background: #fff1f2; }
+.filter-panel, .results-panel { border-color: #c1c5c8; border-top-color: #f93549; background: #fff; box-shadow: var(--shadow); }
+.progress-track { background: #e7e8e9; }
+.progress-track span { background: #f93549; box-shadow: none; }
+.filter-field > span, .filter-note p { color: #62676c; }
+.filter-field select { color: #000; border-color: #c1c5c8; background-color: #fff; background-image: linear-gradient(45deg, transparent 50%, #f93549 50%), linear-gradient(135deg, #f93549 50%, transparent 50%); }
+.filter-field select:focus { border-color: #f93549; box-shadow: 0 0 0 3px rgba(249, 53, 73, .18); }
+.filter-field select:disabled { color: #777d82; background-color: #f0f1f2; }
+.note-mark { color: #000; border-color: #c1c5c8; }
+.status-message { color: #a7192b; }
+.empty-state { color: #62676c; border-color: #c1c5c8; background: #fff; }
+.product-card { border-color: #c1c5c8; background: #fff; box-shadow: 0 8px 24px rgba(0, 0, 0, .06); }
+.product-card:hover { border-color: #f93549; }
+.product-media { background: #f0f1f2; }
+.product-media img { filter: none; mix-blend-mode: normal; }
+.compatibility-badge { color: #000; background: #f93549; }
+.product-reference strong, .product-description, .spec-list dd { color: #000; }
+.spec-list, .filter-note { border-color: #c1c5c8; }
+.spec-list dt, .product-price small { color: #62676c; }
+.product-price strong { color: #000; }
+.link-ficha { color: #000; border-color: #c1c5c8; }
+.link-ficha:hover { border-color: #f93549; background: #fff1f2; }
+.link-whatsapp { color: #000; background: #f93549; }
+.link-ficha.disabled { color: #777d82; border-color: #d9dcde; }
+.site-footer { color: #62676c; border-top-color: #c1c5c8; }
+button:focus-visible, a:focus-visible, .filter-field select:focus-visible { outline: 3px solid #f93549; outline-offset: 3px; }
