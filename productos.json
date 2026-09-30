@@ -12,7 +12,7 @@
     "alternativa": "VTC0017B",
     "clave": "TOMA SOBREPONER|16A|2P+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1XfIv8LcrPfxqAFf-9JVgxzEwWVwOtZWf/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0001B.jpg"
+    "imagen": "https://drive.google.com/file/d/1hO0x8kN-8zdCCj5UsS5wLn3jYcgwEhaC/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0002B",
@@ -27,7 +27,7 @@
     "alternativa": "VTC0018B",
     "clave": "TOMA AEREA|16A|2P+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1UYiVRnk4b1stW0r4h7_7Gzobbn30tlwj/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0002B.jpg"
+    "imagen": "https://drive.google.com/file/d/1b0-h9C0DbvD-2VVR75bSqLSeRpRkWMAe/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0003B",
@@ -42,7 +42,7 @@
     "alternativa": "VTC0041B / VTC0019B",
     "clave": "TOMA INCRUSTAR|16A|2P+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1yIKFfJxIXT_aijtG3GjriJWKQ_R-x_M9/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0003B.jpg"
+    "imagen": "https://drive.google.com/file/d/1Ny0e-j4e0Tpxl6or6kX6tZ9RWdIKOr2h/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0033B",
@@ -57,7 +57,7 @@
     "alternativa": "VTC0004B / VTC0037B / VTC0020B / VTC0035B",
     "clave": "CLAVIJA 45°|16A|2P+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1WrhShgCFirlrYhojJ088yg-Et1H3bod2/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0033B.jpg"
+    "imagen": "https://drive.google.com/file/d/1hi-SBfuePOwq5n1o6HjjEmZyk7kanmgb/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0004B",
@@ -72,7 +72,7 @@
     "alternativa": "VTC0033B / VTC0037B / VTC0020B / VTC0035B",
     "clave": "CLAVIJA|16A|2P+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1JUWOBPw8F-eviZAgOdylkZMBmsetTfPV/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0004B.jpg"
+    "imagen": "https://drive.google.com/file/d/1wBjxTik5wmkBAq8EdUDFsbREzUc7rgWV/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0005B",
@@ -87,7 +87,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA SOBREPONER|32A|2P+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1pqE3JfeuMQZqn9RUtTxE_KFrVIjq2n3F/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0005B.jpg"
+    "imagen": "https://drive.google.com/file/d/15SiHeLTqnFJbmGNknIlTTe2h11u70giD/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0006B",
@@ -102,7 +102,7 @@
     "alternativa": "VTC0054B",
     "clave": "TOMA AEREA|32A|2P+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1wW36-98GwMw-fTsU7NtETBf_7kG9uJjT/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0006B.jpg"
+    "imagen": "https://drive.google.com/file/d/17TMrF50edExNovuchD8gLaRiLs15-uj7/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0007B",
@@ -117,7 +117,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA INCRUSTAR|32A|2P+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/15AfS1Fmh_eO6BJDjjU9OWMdDXIeXqWz4/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0007B.jpg"
+    "imagen": "https://drive.google.com/file/d/1klG2AIwbL0NyY6-v2vIZBJ3ldLBIdlrs/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0034B",
@@ -132,7 +132,7 @@
     "alternativa": "VTC0008B / VTC0052B / VTC0036B",
     "clave": "CLAVIJA 45°|32A|2P+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1iidHj9RrnR3yXkEoDt8lPT7QCgywbgVo/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0034B.jpg"
+    "imagen": "https://drive.google.com/file/d/1mtNzPuhaSdwk1NGe5s1NHzqMqyArRMOj/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0008B",
@@ -147,7 +147,7 @@
     "alternativa": "VTC0034B / VTC0052B / VTC0036B",
     "clave": "CLAVIJA|32A|2P+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1tXMRHhtaYyJ9tzCGr2_R_CbPF2R5ZTL8/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0008B.jpg"
+    "imagen": "https://drive.google.com/file/d/1ulRqAGSB4AEvzhy5bzyJxLw7nMg-OBbL/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0009B",
@@ -162,7 +162,7 @@
     "alternativa": "VTC0021B",
     "clave": "TOMA SOBREPONER|16A|3P+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1WctD5TthC01Sd9Ooz2-Akn_Si4CRniSQ/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0009B.jpg"
+    "imagen": "https://drive.google.com/file/d/1LprLSDi02DbKCacixMxnYTXLDCW-GOIE/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0010B",
@@ -177,7 +177,7 @@
     "alternativa": "VTC0022B",
     "clave": "TOMA AEREA|16A|3P+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1PFQUKhfTlwDY0LdrkdfOJkoBFAMfI6vk/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0010B.jpg"
+    "imagen": "https://drive.google.com/file/d/1WPvsRkLd3gDofrb-omjMq0zeZ7JuzTpu/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0011B",
@@ -192,7 +192,7 @@
     "alternativa": "VTC0042B / VTC0023B",
     "clave": "TOMA INCRUSTAR|16A|3P+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1QfFCpFDKJ5p5Omg6q1qwvLkZhRoOQapV/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0011B.jpg"
+    "imagen": "https://drive.google.com/file/d/1gHlYnqZabU6qbYYeITIUQitcgwsBDJaY/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0012B",
@@ -207,7 +207,7 @@
     "alternativa": "VTC0038B / VTC0024B",
     "clave": "CLAVIJA|16A|3P+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1Uet2gG-lrJCTkMvhBlsdVTVOEykgXogD/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0012B.jpg"
+    "imagen": "https://drive.google.com/file/d/1LEQAVEj1LtVMjLAIWdS0x11hKZzcA2gl/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0013B",
@@ -222,7 +222,7 @@
     "alternativa": "VTC0025B",
     "clave": "TOMA SOBREPONER|32A|3P+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/14VG-RyqBT35DGb9mso298xW5YvBRdioO/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0013B.jpg"
+    "imagen": "https://drive.google.com/file/d/1eck2PAaUUYWLQcmgkktvmt_cKe6fnPPB/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0014B",
@@ -237,7 +237,7 @@
     "alternativa": "VTC0026B",
     "clave": "TOMA AEREA|32A|3P+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/18WzSsqBfJAJI9qG3Ec3D1sMt0YJqYo7g/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0014B.jpg"
+    "imagen": "https://drive.google.com/file/d/1GbfZAPNHKtrUtdSPLRc8zlX4InTi52r7/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0015B",
@@ -252,7 +252,7 @@
     "alternativa": "VTC0027B",
     "clave": "TOMA INCRUSTAR|32A|3P+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1LwE4EW5TH2Zbva-X5h3zE7AHiScbVZFp/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0015B.jpg"
+    "imagen": "https://drive.google.com/file/d/1ytHkZP-qXdJV95TuD0OK4KaOXgcp33wY/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0016B",
@@ -267,7 +267,7 @@
     "alternativa": "VTC0039B / VTC0028B",
     "clave": "CLAVIJA|32A|3P+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1MH11Q_gAEIdIKsDvqaU4XNXqvpbdC3ew/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0016B.jpg"
+    "imagen": "https://drive.google.com/file/d/17x280nPs9xlBRiEvQ27r12QiX1xqdpOx/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0017B",
@@ -282,7 +282,7 @@
     "alternativa": "VTC0001B",
     "clave": "TOMA SOBREPONER|16A|2P+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1tBmL_Jeyb4ouSUNg0hfLD70wiwsCqflz/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0017B.jpg"
+    "imagen": "https://drive.google.com/file/d/1-tZXXE2KntXtZLz7la8jzkx4EimIyGjT/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0018B",
@@ -297,7 +297,7 @@
     "alternativa": "VTC0002B",
     "clave": "TOMA AEREA|16A|2P+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1INxbo9QKP7AmLwVJ39gSxggv9TqthgOg/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0018B.jpg"
+    "imagen": "https://drive.google.com/file/d/1vi_R9qYMqKBcsrFxD2mhZFGLyzX16bmP/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0041B",
@@ -312,7 +312,7 @@
     "alternativa": "VTC0003B / VTC0019B",
     "clave": "TOMA INCRUSTAR|16A|2P+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1mnFxEj_EVSdlHq6u_z0a6WXc1GalEq-d/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0041B.jpg"
+    "imagen": "https://drive.google.com/file/d/18ASfdPt6rbO4-Zys4wiDl87USD3pOmrg/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0019B",
@@ -327,7 +327,7 @@
     "alternativa": "VTC0003B / VTC0041B",
     "clave": "TOMA INCRUSTAR|16A|2P+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1QezpI55vhRkR25gSC-GSTlCzG62gX6tN/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0019B.jpg"
+    "imagen": "https://drive.google.com/file/d/1M--PsBHxaNZbAfpS0ZIJOBYVL9SlJnKX/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0037B",
@@ -342,7 +342,7 @@
     "alternativa": "VTC0004B / VTC0033B / VTC0020B / VTC0035B",
     "clave": "CLAVIJA 45°|16A|2P+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1k1g_fqCgWcWy0Bjot57ABHwcYrP_Ml7-/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0037B.png"
+    "imagen": "https://drive.google.com/file/d/1CiChfpTpAEvzTKvjI6dNyBd0BoTUlQue/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0020B",
@@ -357,7 +357,7 @@
     "alternativa": "VTC0033B / VTC0004B / VTC0037B / VTC0035B",
     "clave": "CLAVIJA|16A|2P+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/18c-zmZkQzf1w9QGKwq6oPC1ee5VIaCNN/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0020B.jpg"
+    "imagen": "https://drive.google.com/file/d/1fqs_L_LGbuLwHG3mkkSWG7kmlgOmM1t2/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0021B",
@@ -372,7 +372,7 @@
     "alternativa": "VTC0009B",
     "clave": "TOMA SOBREPONER|16A|3P+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1L4p208mW6JYEewRXood5cS6bDlteRKuU/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0021B.jpg"
+    "imagen": "https://drive.google.com/file/d/1c0IDsNUI2AcCcQx4cYEKT5UAVGgKd5Ee/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0022B",
@@ -387,7 +387,7 @@
     "alternativa": "VTC0010B",
     "clave": "TOMA AEREA|16A|3P+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/12fZaM2NalEiMtRVgvSczU8bWjtCYSBXE/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0022B.jpg"
+    "imagen": "https://drive.google.com/file/d/1n1MzkjJ3gb9Ez46yEmM2GF3aisJbwQym/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0042B",
@@ -402,7 +402,7 @@
     "alternativa": "VTC0011B / VTC0023B",
     "clave": "TOMA INCRUSTAR|16A|3P+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1ElrlB_YWaf5rZVT-yIVYF8ew2-S4xrvf/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0042B.jpg"
+    "imagen": "https://drive.google.com/file/d/18swOjJ6IYCSBnoCe2aq610-gm_67AUbC/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0023B",
@@ -417,7 +417,7 @@
     "alternativa": "VTC0011B / VTC0042B",
     "clave": "TOMA INCRUSTAR|16A|3P+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1Z0DamHy9Qryvqv38QRByZA9hrjiH7WxF/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0023B.jpg"
+    "imagen": "https://drive.google.com/file/d/1MG012dk9GWrXPfqoSdX31qLpN2nyaI4C/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0038B",
@@ -432,7 +432,7 @@
     "alternativa": "VTC0012B / VTC0038B",
     "clave": "CLAVIJA 45°|16A|3P+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1g0vGLxxnYCwsq0l91peg3b-RUzybh9gd/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0038B.jpg"
+    "imagen": "https://drive.google.com/file/d/1aWi_DxAwvBc6p0kwmtJINbMNxKiC-ZHl/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0024B",
@@ -447,7 +447,7 @@
     "alternativa": "VTC0012B / VTC0038B",
     "clave": "CLAVIJA|16A|3P+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/135kLJODEM0O-Z2gcPPf3OcM9Ar8plQfj/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0024B.jpg"
+    "imagen": "https://drive.google.com/file/d/1fXAoEjYUURgIXMcfAf4mw6IPRBf55FEC/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0025B",
@@ -462,7 +462,7 @@
     "alternativa": "VTC0013B",
     "clave": "TOMA SOBREPONER|32A|3P+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1MCGfYjQzSazSp0CkNh2q2_0wMMzS6x8t/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0025B.jpg"
+    "imagen": "https://drive.google.com/file/d/1MC8FnSNzurSu3rKVQdYGmSMl8WEakb2l/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0026B",
@@ -477,7 +477,7 @@
     "alternativa": "VTC0014B",
     "clave": "TOMA AEREA|32A|3P+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1qexwr-tFoJYJ4o8i-QNXSCgGC1c3nOVm/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0026B.jpg"
+    "imagen": "https://drive.google.com/file/d/1cdCJPT9bl_QimrJu9tK90envSz9lMO7g/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0027B",
@@ -492,7 +492,7 @@
     "alternativa": "VTC0015B",
     "clave": "TOMA INCRUSTAR|32A|3P+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1CSlhz74v3osqwgXw3-aSI1Rbrd_VRmhT/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0027B.jpg"
+    "imagen": "https://drive.google.com/file/d/1QaGDyCWkCFOnSXL4gWm8uT7u1r237zgd/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0039B",
@@ -507,7 +507,7 @@
     "alternativa": "VTC0016B / VTC0028B",
     "clave": "CLAVIJA 45°|32A|3P+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1CvjtlbnMjdZc7qriOdz0kVWFFtKkHBUj/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0039B.jpg"
+    "imagen": "https://drive.google.com/file/d/1U-oZPR89bhJZ23R2CTAmLhllGdnmdPIh/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0028B",
@@ -522,7 +522,7 @@
     "alternativa": "VTC0016B / VTC0039B",
     "clave": "CLAVIJA|32A|3P+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1NOI5k3U74ICtYhV9fFPhOeuTLHva2eMT/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0028B.jpg"
+    "imagen": "https://drive.google.com/file/d/19qy_X2jxXiofglyx2Bag7HtNnmvJAex9/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0029B",
@@ -537,7 +537,7 @@
     "alternativa": "VTC0047B",
     "clave": "TOMA SOBREPONER|32A|3P+N+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1l7-_S7HbVbuN9Qd3wAwYBQ-Hw3phrMfc/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0029B.jpg"
+    "imagen": "https://drive.google.com/file/d/17eUnGG0NWMevaS-0d7t5nV03Px13-3oQ/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0030B",
@@ -552,7 +552,7 @@
     "alternativa": "VTC0048B",
     "clave": "TOMA AEREA|32A|3P+N+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1GcWA2CHzL3WSMUUl1wPoD7Ptj6_jD-uI/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0030B.jpg"
+    "imagen": "https://drive.google.com/file/d/1CLegzgWr-CyXJ3RKBIgkHLk1_oD0KRc0/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0031B",
@@ -567,7 +567,7 @@
     "alternativa": "VTC0049B",
     "clave": "TOMA INCRUSTAR|32A|3P+N+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1Hcv2NjnIVrCXrTFBV5sCxpygCAV_ywzf/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0031B.jpg"
+    "imagen": "https://drive.google.com/file/d/1uMVPcN2pi0TfHDgFG2iVdo4kND9-AMLI/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0040B",
@@ -582,7 +582,7 @@
     "alternativa": "VTC0032B / VTC0050B",
     "clave": "CLAVIJA 45°|32A|3P+N+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1yVYZ6HTt7oc_QEMnkvfxO2FQO6FDj3w1/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0040B.jpg"
+    "imagen": "https://drive.google.com/file/d/1et791nGHCLY1jB9dBMPEcAVtq1Vb0qxH/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0032B",
@@ -597,7 +597,7 @@
     "alternativa": "VTC0040B / VTC0050B",
     "clave": "CLAVIJA|32A|3P+N+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1AnqE_7uAi6p85rkMtQX5UfVDcaYoglkB/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0032B.jpg"
+    "imagen": "https://drive.google.com/file/d/1WB7XaGhn7tv6oOJlJJTrGKh4bGvw2WJx/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0043B",
@@ -612,7 +612,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA SOBREPONER|16A|3P+N+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1fN61ipWLsC8W_G3X3d1kzGoD4Tjb8E1n/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0043B.jpg"
+    "imagen": "https://drive.google.com/file/d/1gad1wz0aoo6A9TbqD_blnslqoes3L_EE/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0044B",
@@ -627,7 +627,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA AEREA|16A|3P+N+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1QN52RfleUA7MKPw2QO3piJYBRH8S_Q1Q/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0044B.jpg"
+    "imagen": "https://drive.google.com/file/d/1Y2Wf023c373e5mWP0T8bX0jbnPZYbw2N/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0045B",
@@ -642,7 +642,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA INCRUSTAR|16A|3P+N+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1Cks3ZNk5K4Qv1tKKxwV7w9OXzDdtX3TK/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0045B.jpg"
+    "imagen": "https://drive.google.com/file/d/1QKBvwkAV0ZdywNDClg3V2rNdgPHYyTIY/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0046B",
@@ -657,7 +657,7 @@
     "alternativa": "NO APLICA",
     "clave": "CLAVIJA|16A|3P+N+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1cnLvk-3mckMX8HbBXzczmOpV-dgjS3E3/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0046B.jpg"
+    "imagen": "https://drive.google.com/file/d/1o5Ax7DalgDMiy99U1I34Hmg64GMYHK7z/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0047B",
@@ -672,7 +672,7 @@
     "alternativa": "VTC0029B",
     "clave": "TOMA SOBREPONER|32A|3P+N+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/10Hd2wwC_8AdPuciaMGv6tYijMiZSlObV/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0047B.jpg"
+    "imagen": "https://drive.google.com/file/d/1XwtPVfWXQM4A9ZzMWTRBDMEAa-XCecnX/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0048B",
@@ -687,7 +687,7 @@
     "alternativa": "VTC0030B",
     "clave": "TOMA AEREA|32A|3P+N+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1wdtgFpm8aWhSxCQNE-YEsN72UtcYtaRA/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0048B.jpg"
+    "imagen": "https://drive.google.com/file/d/19UXzTV_B1ffg7Ys2uZ1fp_8gN7qPviz4/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0049B",
@@ -702,7 +702,7 @@
     "alternativa": "VTC0031B",
     "clave": "TOMA INCRUSTAR|32A|3P+N+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1xAZoTyeBRcmcU3phAvtPJGh8nJmDpIoR/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0049B.jpg"
+    "imagen": "https://drive.google.com/file/d/1G2vLdjtsxnTdgLNrMpLbTHS5HiWiJdOs/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0050B",
@@ -717,7 +717,7 @@
     "alternativa": "VTC0040B / VTC0032B",
     "clave": "CLAVIJA|32A|3P+N+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/152KHNnBJrmflaKMu19Ul5lCeo_AndR27/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0050B.jpg"
+    "imagen": "https://drive.google.com/file/d/19nHzcCMSNwkhQToLI6vhN6KE8S6EysZy/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0055B",
@@ -732,7 +732,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA AEREA|63A|3P+N+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/16sGeVYo3V2swqLe2dPknWYQSlPm5n2Yi/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0055B.jpg"
+    "imagen": "https://drive.google.com/file/d/1LytWL1bmrLWwFCdNC1Rm2aDpup5xQFZT/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0056B",
@@ -747,7 +747,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA INCRUSTAR|63A|3P+N+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1Owjw8_Kp7suFYLmyY5iNNIWoMCHL9063/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0056B.jpg"
+    "imagen": "https://drive.google.com/file/d/1INtR915dUdTt2BYoUyM3SVYV98JWD9cb/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0057B",
@@ -762,7 +762,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA SOBREPONER|63A|3P+N+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1jZnP4c19i8TGTt5Mde2gkZjQWbZOzX4i/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0057B.jpg"
+    "imagen": "https://drive.google.com/file/d/1WQDpXtw73m9AbMShMBJRbR7orKB4HZGp/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0058B",
@@ -777,7 +777,7 @@
     "alternativa": "NO APLICA",
     "clave": "CLAVIJA|63A|3P+N+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1Fnr_tv4toeaVXuGheoYD7zF4N7r6Xeyw/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0058B.jpg"
+    "imagen": "https://drive.google.com/file/d/1dvY7YjgfTcUk-uAQmeRUST9yB1JUTh4l/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0054B",
@@ -792,7 +792,7 @@
     "alternativa": "VTC0006B",
     "clave": "TOMA AEREA|32A|2P+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1BVUN66Z9uZGjXFqJHa28rXOJo03CMcwC/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0054B.jpg"
+    "imagen": "https://drive.google.com/file/d/1i_9aCpsFI9qXw7puxY6XKeZpsMg6FJxh/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0052B",
@@ -807,7 +807,7 @@
     "alternativa": "VTC0034B / VTC0008B / VTC0036B",
     "clave": "CLAVIJA|32A|2P+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1Y1xwmii2z9YfkBXiPHjfm54O8vhQhYj5/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0052B.jpg"
+    "imagen": "https://drive.google.com/file/d/1PxP8B41ykxFKhOtdIN8jISwlGmp39Idi/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0053B",
@@ -822,7 +822,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA AEREA|125A|3P+N+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1GRBA79Y1dMKpGhRGgeIv4bS-_x98ql-h/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0053B.jpg"
+    "imagen": "https://drive.google.com/file/d/12ly-Idu7qKY31VAuTIeRBdFxzeLjuojE/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0051B",
@@ -837,7 +837,7 @@
     "alternativa": "NO APLICA",
     "clave": "CLAVIJA 45°|125A|3P+N+T|IP67|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/12qx27dSCow3NLFuXb7ZkNrh7U18AIlkl/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0051B.jpg"
+    "imagen": "https://drive.google.com/file/d/1eZQIUQ5QtYVMugMYPNWsGioJo2GyWmd5/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0035B",
@@ -852,7 +852,7 @@
     "alternativa": "VTC0033B / VTC0004B / VTC0037B / VTC0020B",
     "clave": "CLAVIJA 45°|16A|2P+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1C25owQnMWB635vIH57vkECjoEXYXdNF9/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0035B.jpg"
+    "imagen": "https://drive.google.com/file/d/1WM6IHaARcY2fZnHSow1eMRiW-lNv1kCc/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0036B",
@@ -867,7 +867,7 @@
     "alternativa": "VTC0034B / VTC0008B / VTC0036B",
     "clave": "CLAVIJA 45°|32A|2P+T|IP44|220 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1uuY3yKQ0QEmTWnmQ-Kf_JYKbsXbu9xv5/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0036B.jpg"
+    "imagen": "https://drive.google.com/file/d/1a_FtXDqudIiEpLroQoGmNsgZMGUBdw5Y/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0001C",
@@ -882,7 +882,7 @@
     "alternativa": "VTC0009C",
     "clave": "TOMA SOBREPONER|16A|3P+T|IP44|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1Z81Pb9mJUy-DCUY550R4YdVSKco5jHix/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0001C.jpg"
+    "imagen": "https://drive.google.com/file/d/1Wsi2roXBWhaIb9LQ5s61-73B1WKk9wAF/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0002C",
@@ -897,7 +897,7 @@
     "alternativa": "VTC0010C",
     "clave": "TOMA AEREA|16A|3P+T|IP44|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1PmTxsFT2qbFP2TYbGiXvDXf1t96tjMX2/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0002C.jpg"
+    "imagen": "https://drive.google.com/file/d/1iA1iSLlNHfBVf7RkrEazYWE1G8tm975p/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0003C",
@@ -912,7 +912,7 @@
     "alternativa": "VTC0034C / VTC0011C",
     "clave": "TOMA INCRUSTAR|16A|3P+T|IP44|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1wte883evyfVgx7J-vXCdyKVgZmNyojsN/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0003C.jpg"
+    "imagen": "https://drive.google.com/file/d/1tk5uZi56zVgYJ6h5oXyA8wVurSx0JmO1/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0029C",
@@ -927,7 +927,7 @@
     "alternativa": "VTC0004C / VTC0031C / VTC0012C",
     "clave": "CLAVIJA 45°|16A|3P+T|IP44|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1RIdG4R5b0etECn_awmBIL5yBFYindVOR/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0029C.jpg"
+    "imagen": "https://drive.google.com/file/d/1bJdC6xjLwS5UQ0SH_BNeBYdP7LlHYP5j/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0004C",
@@ -942,7 +942,7 @@
     "alternativa": "VTC0029C / VTC0031C / VTC0012C",
     "clave": "CLAVIJA|16A|3P+T|IP44|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1Fv7cKFzjJ9TbbngMEUbg94_5aUDdB0XE/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0004C.jpg"
+    "imagen": "https://drive.google.com/file/d/1C9y1TxfeATmuHSGhzfriYgWoCW5C3olV/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0005C",
@@ -957,7 +957,7 @@
     "alternativa": "VTC0013C / VTC0025C (Contenedor)",
     "clave": "TOMA SOBREPONER|32A|3P+T|IP44|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1Ei5Is5qwD3Tl9Wr7NCikC013dtHIaKMg/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0005C.jpg"
+    "imagen": "https://drive.google.com/file/d/1g3iT9Z37hJhjeAR0ACfs8VSkz-nR5YR7/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0006C",
@@ -972,7 +972,7 @@
     "alternativa": "VTC0014C / VTC0026C",
     "clave": "TOMA AEREA|32A|3P+T|IP44|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1e7sTPIV1oY8hqghbUaxh6se_AnDSjPWZ/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0006C.jpg"
+    "imagen": "https://drive.google.com/file/d/1tESfqjph8hgVdAWTf_oYijPx_NGuawLT/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0007C",
@@ -987,7 +987,7 @@
     "alternativa": "VTC0015C / VTC0027C",
     "clave": "TOMA INCRUSTAR|32A|3P+T|IP44|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1ZaWnRGN7oqtccZm3ZCedxVXDM52VTCU6/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0007C.jpg"
+    "imagen": "https://drive.google.com/file/d/1r0AO0FYFsx0LWH00sc9ysnTDUdGl92hI/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0030C",
@@ -1002,7 +1002,7 @@
     "alternativa": "VTC0008C / VTC0032C / VTC0016C / VTC0028C (Contenedor)",
     "clave": "CLAVIJA 45°|32A|3P+T|IP44|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1PtdPiDndbKjJtz-lHCziJtmuFhNVOWL4/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0030C.jpg"
+    "imagen": "https://drive.google.com/file/d/1JK7Ug70am4QI-earxwIwwyfPCGn9OIVF/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0008C",
@@ -1017,7 +1017,7 @@
     "alternativa": "VTC0030C / VTC0032C / VTC0016C / VTC0028C (Contenedor)",
     "clave": "CLAVIJA|32A|3P+T|IP44|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1gsOKde4lwZ5qTVi3hXH15lE0HONhXBSX/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0008C.jpg"
+    "imagen": "https://drive.google.com/file/d/1jCd0C6AY1J116x13FKDfTCLM83w2I1RE/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0009C",
@@ -1032,7 +1032,7 @@
     "alternativa": "VTC0001C",
     "clave": "TOMA SOBREPONER|16A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1B9E45t-rOSmOy-iNn1Wrxtf55XUL1GD4/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0009C.jpg"
+    "imagen": "https://drive.google.com/file/d/1gZ48gZlrReJGyR1-x-PFl5ncNH9lopdI/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0010C",
@@ -1047,7 +1047,7 @@
     "alternativa": "VTC0002C",
     "clave": "TOMA AEREA|16A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1Fv0xHCVrm-p7M3K9dhO3EAPEQ8HdQma6/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0010C.jpg"
+    "imagen": "https://drive.google.com/file/d/1W5OB4nEdhjxpLTaaqLjrfSUfHWZm_bQV/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0034C",
@@ -1062,7 +1062,7 @@
     "alternativa": "VTC0003C / VTC0011C",
     "clave": "TOMA INCRUSTAR|16A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1n97eW2aTi6jp8DO70TVI2jTurX6a93Bg/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0034C.jpg"
+    "imagen": "https://drive.google.com/file/d/1ky4oo862fYZ2z-BrT_xvRFAQlaEwq9np/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0011C",
@@ -1077,7 +1077,7 @@
     "alternativa": "VTC0003C / VTC0034C",
     "clave": "TOMA INCRUSTAR|16A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1OEINzO-8zOsBF1zF9inc_LsD0QL7EvCc/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0011C.jpg"
+    "imagen": "https://drive.google.com/file/d/1dqdUtZOnZcHEv-mpODvl7IAUIGl09Sbp/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0031C",
@@ -1092,7 +1092,7 @@
     "alternativa": "VTC0029C / VTC0004C / VTC0012C",
     "clave": "CLAVIJA 45°|16A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1afnSK3DRJPSTZhrud0bUfWYVUk-6U8e4/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0031C.jpg"
+    "imagen": "https://drive.google.com/file/d/1TgtZN8YoLIRWtBr_6N4CxBWm6fblr9Gj/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0012C",
@@ -1107,7 +1107,7 @@
     "alternativa": "VTC0029C / VTC0004C / VTC0031C",
     "clave": "CLAVIJA|16A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/17vnMkld8DA6pjehOpeP6VFVO5gQaRtGV/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0012C.jpg"
+    "imagen": "https://drive.google.com/file/d/1s55lcCAJnrUzKfYsySaqy2h8S2c9RflT/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0013C",
@@ -1122,7 +1122,7 @@
     "alternativa": "VTC0005C / VTC0025C (Contenedor)",
     "clave": "TOMA SOBREPONER|32A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1xQQNqO-lkYfQ3XJ-OFWHChoooD4w3tH4/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0013C.jpg"
+    "imagen": "https://drive.google.com/file/d/1J0bofVLmJ_vXtrt4ywtbcIPoMMNmo49X/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0014C",
@@ -1137,7 +1137,7 @@
     "alternativa": "VTC0006C / VTC0026C",
     "clave": "TOMA AEREA|32A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1PutBpXW_gcefxGLtAMzvY9BDw2TrvXxL/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0014C.jpg"
+    "imagen": "https://drive.google.com/file/d/11ndbXMpKWJrgK6vrmVvFOcs3wTZ6LRf4/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0015C",
@@ -1152,7 +1152,7 @@
     "alternativa": "VTC0007C / VTC0027C",
     "clave": "TOMA INCRUSTAR|32A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1ZNUm11Tf5bDzuL0w0EpvwQjEitBabN9p/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0015C.jpg"
+    "imagen": "https://drive.google.com/file/d/1H-AlujCC2hM6GvfSvEmUvgDyf0KWQ3aN/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0032C",
@@ -1167,7 +1167,7 @@
     "alternativa": "VTC0030C / VTC0008C / VTC0016C / VTC0028C (Contenedor)",
     "clave": "CLAVIJA 45°|32A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1ObC09RJ9cFWRvtdUMGNvEV7KL36lXehr/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0032C.jpg"
+    "imagen": "https://drive.google.com/file/d/1dRW0C1blBDsaMKUurbU8gGLQnCPH8ZKP/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0016C",
@@ -1182,7 +1182,7 @@
     "alternativa": "VTC0030C / VTC0008C / VTC0032C / VTC0028C (Contenedor)",
     "clave": "CLAVIJA|32A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/115kG1roY7LbIwSwHMsX5rURjOwVczoXp/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0016C.jpg"
+    "imagen": "https://drive.google.com/file/d/1wgvZrNxw-G5JUgtS7e7rvbvIKf49jkpL/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0017C",
@@ -1197,7 +1197,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA SOBREPONER|63A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1JS0JTz5Key6iAGWH_VsD1tdnGlnoTHIp/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0017C.jpg"
+    "imagen": "https://drive.google.com/file/d/1W4TBiLE8hMkgvM-0T8lGJfZPVxMKa4FE/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0018C",
@@ -1212,7 +1212,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA AEREA|63A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1Gbf-YxqRMNr4Z78bLRDryVZw_bHwuTSE/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0018C.jpg"
+    "imagen": "https://drive.google.com/file/d/1eam4_LZY_fXkIbsAKTtBtU9jQtaJbhSa/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0019C",
@@ -1227,7 +1227,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA INCRUSTAR|63A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1t_lc34PQaUHHIkoX8Sav4iv2aSum8rl3/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0019C.jpg"
+    "imagen": "https://drive.google.com/file/d/1uHGLrnDOYZGFhAi5uDE0s2nYN-NWt6hj/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0020C",
@@ -1242,7 +1242,7 @@
     "alternativa": "NO APLICA",
     "clave": "CLAVIJA|63A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1iDZvMyeMuGyRr6c5CtIsyuCcVWEglOne/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0020C.jpg"
+    "imagen": "https://drive.google.com/file/d/1QNijZtV8LD_no9i6G8JkcUXaDlQXH4wj/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0021C",
@@ -1257,7 +1257,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA SOBREPONER|125A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1Ac-dhOII3PsgY87CdzDXgmmeWwo1rpoi/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0021C.jpg"
+    "imagen": "https://drive.google.com/file/d/1N7-0W4c5j5JrtEheKTD0j5__oCnZ16YG/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0022C",
@@ -1272,7 +1272,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA AEREA|125A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/10aL-ECl3BYPG_g0vgJBbeOApSzMh0rmm/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0022C.jpg"
+    "imagen": "https://drive.google.com/file/d/13zZ92a_PuMeVcnnuo-1z9asr5CZbnlXb/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0023C",
@@ -1287,7 +1287,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA INCRUSTAR|125A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1Eywo_sVpgVifQdmCHRp_SFiPKUcnZP6J/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0023C.jpg"
+    "imagen": "https://drive.google.com/file/d/1thvAJZAof1PFMk7ou_QVNtxMLjXyVjd0/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0024C",
@@ -1302,7 +1302,7 @@
     "alternativa": "NO APLICA",
     "clave": "CLAVIJA|125A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1F471hMaEmTDhI8H0SDgXPOjc6Spyfhx4/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0024C.jpg"
+    "imagen": "https://drive.google.com/file/d/1rEba6AtpzJ1-bnVMPMjuqe5rYLu3t1Uy/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0025C",
@@ -1317,7 +1317,7 @@
     "alternativa": "VTC0005C / VTC0013C (No son de contenedor)",
     "clave": "TOMA SOBREPONER|32A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1CxmU-cCV3EyIR6YobjEhjBugYQfOm7vo/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0025C.jpg"
+    "imagen": "https://drive.google.com/file/d/15Q-jKjrpokSndnm1i6whREtYVLaMIkFC/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0026C",
@@ -1332,7 +1332,7 @@
     "alternativa": "VTC0006C / VTC0014C",
     "clave": "TOMA AEREA|32A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/10q1jqaamWtZDD1Kq8o96vXNSPEhsEumx/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0026C.jpg"
+    "imagen": "https://drive.google.com/file/d/1R3PBsn41rSJ1sv4RxkwRMmvoWz8xr2ko/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0027C",
@@ -1347,7 +1347,7 @@
     "alternativa": "VTC0007C / VTC0015C",
     "clave": "TOMA INCRUSTAR|32A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1CQDqV6TxSQjXZ514iUf-ZkEYaz8fzhoh/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0027C.jpg"
+    "imagen": "https://drive.google.com/file/d/1EFNLwKX8U4W03pxFDTOkTHmts5s_R936/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0028C",
@@ -1362,7 +1362,7 @@
     "alternativa": "VTC0030C / VTC0008C / VTC0032C / VTC0028C (No aptos para Contenedor)",
     "clave": "CLAVIJA|32A|3P+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1woFPctAUDg0RN-VVnGEtTIdB0Wsvxxh0/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0028C.jpg"
+    "imagen": "https://drive.google.com/file/d/1bs2kZE6asxZSiC1YRHlxJ8kx79gk6N7L/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0035C",
@@ -1377,7 +1377,7 @@
     "alternativa": "NO APLICA",
     "clave": "CLAVIJA|32A|3P+N+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1dNLstneadqiJy0cvEyO7tk573wYjxhVr/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0035C.jpg"
+    "imagen": "https://drive.google.com/file/d/1THEP10DsB2pWZZ_T7i-FrKSh8kC6G-41/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0036C",
@@ -1392,7 +1392,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA SOBREPONER|32A|3P+N+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1sqRGwZozcckZFaeer_TfBeyGX2yD9wss/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0036C.jpg"
+    "imagen": "https://drive.google.com/file/d/1o-ogy4xcQnNAxJuMwh17zZpldRQ9QsPX/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0038C",
@@ -1407,7 +1407,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA INCRUSTAR|32A|3P+N+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1tkyeYWsOqaaeCpWH_pdlYW7ZiRqbIqlu/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0038C.jpg"
+    "imagen": "https://drive.google.com/file/d/1OYfJiZma_cyguZke6gjHkGaGx5Bxal83/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0037C",
@@ -1422,7 +1422,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA AEREA|32A|3P+N+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1mYFKr92n_NAh7CZcE7YYnEnJFcYt5HTr/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0037C.jpg"
+    "imagen": "https://drive.google.com/file/d/1z-mEZ5EFD31VJ7XZHYeTVeVqUe9UxbLM/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0040C",
@@ -1437,7 +1437,7 @@
     "alternativa": "NO APLICA",
     "clave": "CLAVIJA|63A|3P+N+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1LtHHNVSG_vZRPZ7p8KR-pHM5LX2oU00O/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0040C.jpg"
+    "imagen": "https://drive.google.com/file/d/12lgrf9JlVSGr9HEg-pRzrBYLswIcHS-1/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0042C",
@@ -1452,7 +1452,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA AEREA|63A|3P+N+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1XSr3SlFBIlIPGiZtsVppqWK4ZN7fMEyO/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0042C.jpg"
+    "imagen": "https://drive.google.com/file/d/1oMNCPaw9LLmqpVY_v-SzNe-jyLHSQTF4/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0043C",
@@ -1467,7 +1467,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA INCRUSTAR|63A|3P+N+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1h3HutjPnULbjovukCIb19xstalBSnYOp/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0043C.jpg"
+    "imagen": "https://drive.google.com/file/d/1lpiiCYHfSD8ek1RVJrHvFuNog6Uz9PVM/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0044C",
@@ -1482,7 +1482,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA SOBREPONER|63A|3P+N+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1pjpZLMKoF51bYVuijaM0wE3ylgba3WO6/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0044C.jpg"
+    "imagen": "https://drive.google.com/file/d/1WmG9jMpsIlPPHXZ1AH-As50IHSzmNn3z/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0039C",
@@ -1497,7 +1497,7 @@
     "alternativa": "NO APLICA",
     "clave": "CLAVIJA 45°|125A|3P+N+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1v-uKK9jlMAWwIhue0sI7jVZPAyCI6u9r/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0039C.jpg"
+    "imagen": "https://drive.google.com/file/d/1B86U6Sb7wxuTinLzr0EM2sB-Gm1iCqHO/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0041C",
@@ -1512,7 +1512,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA AEREA|125A|3P+N+T|IP67|440 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1fVyvAw1G06L0HJnbFnyCMKxkTQR8M4FH/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0041C.jpg"
+    "imagen": "https://drive.google.com/file/d/18SCbvc2FVkSitrGtc8WbzQXHZQtfMgYb/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0001A",
@@ -1527,7 +1527,7 @@
     "alternativa": "VTC0009A",
     "clave": "TOMA SOBREPONER|16A|2P+T|IP44|110 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/13xhOMZ5CoeqAmRhKmfSr5pOrE9rqlHz2/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0001A.jpg"
+    "imagen": "https://drive.google.com/file/d/1-4m72XhUGIXGO5AoEfpF_GG1bftk4Vj6/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0002A",
@@ -1542,7 +1542,7 @@
     "alternativa": "VTC0010A",
     "clave": "TOMA AEREA|16A|2P+T|IP44|110 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1JfIQSn46gdQZJOdTPwUz2a30cPhcGLQO/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0002A.jpg"
+    "imagen": "https://drive.google.com/file/d/1n5TSePHcApRg7hPXTypf3rqyAM00Iucu/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0003A",
@@ -1557,7 +1557,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA INCRUSTAR|16A|2P+T|IP44|110 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1RiL2bFyRqqHt-ZE-YAh4xwJM42QuRSfL/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0003A.jpg"
+    "imagen": "https://drive.google.com/file/d/1msWE3cNBgntZgMGuXj_XXcaXl6xQdu5o/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0004A",
@@ -1572,7 +1572,7 @@
     "alternativa": "VTC0012A / VTC0017A",
     "clave": "CLAVIJA|16A|2P+T|IP44|110 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1xbOVgs8GcbqC-2bO_iZHGYlaDaNXMqRu/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0004A.jpg"
+    "imagen": "https://drive.google.com/file/d/1SoXhO1jw4UDtOwqAJIu__P6lxlCCtZfZ/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0005A",
@@ -1587,7 +1587,7 @@
     "alternativa": "VTC0013A",
     "clave": "TOMA SOBREPONER|32A|2P+T|IP44|110 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1WRAJRfezSRxz_vr2IGmcOvh409N1iz6T/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0005A.jpg"
+    "imagen": "https://drive.google.com/file/d/1PtAMrjlEsJg-3gkixU9wL7OWoe1IkBgY/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0006A",
@@ -1602,7 +1602,7 @@
     "alternativa": "VTC0014A",
     "clave": "TOMA AEREA|32A|2P+T|IP44|110 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1R4WwVzH3qlof6uOTUlVlVLUkUgj-DmZ-/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0006A.jpg"
+    "imagen": "https://drive.google.com/file/d/1t1EwszOifUU9AZ8ef2T4W1Km8db6qdLx/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0007A",
@@ -1617,7 +1617,7 @@
     "alternativa": "VTC0015A",
     "clave": "TOMA INCRUSTAR|32A|2P+T|IP44|110 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/168l0nQo3-wlQCzBgHU_wyHB-ykDx-sXl/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0007A.jpg"
+    "imagen": "https://drive.google.com/file/d/1RsJoIM8T9wUkB5Cg-zjijEOvZdH-X7ZB/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0008A",
@@ -1632,7 +1632,7 @@
     "alternativa": "VTC0018A / VTC0016A",
     "clave": "CLAVIJA|32A|2P+T|IP44|110 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1URPApSSqnU4bwZ-4UKAWJ4Xusg28VCwV/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0008A.jpg"
+    "imagen": "https://drive.google.com/file/d/1n-W6z9RieHFm-_hx47ufeGqlgLHUex0O/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0009A",
@@ -1647,7 +1647,7 @@
     "alternativa": "VTC0001A",
     "clave": "TOMA SOBREPONER|16A|2P+T|IP67|110 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/12AGl2jDOE3NEiKoddpqyTSzUgZJyOB0q/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0009A.jpg"
+    "imagen": "https://drive.google.com/file/d/1RNjr-2RdqsaI9w32kus5XXHDllT5kVCr/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0010A",
@@ -1662,7 +1662,7 @@
     "alternativa": "VTC0002A",
     "clave": "TOMA AEREA|16A|2P+T|IP67|110 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1RJWWlTDeUWQtMUUM6ZB6I5qdWsCi1Wr-/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0010A.jpg"
+    "imagen": "https://drive.google.com/file/d/1MsYHcgm-eR2p_w1pj4zr9omhoqfF5uQH/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0019A",
@@ -1677,7 +1677,7 @@
     "alternativa": "VTC0011A",
     "clave": "TOMA INCRUSTAR|16A|2P+T|IP67|110 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1N9W7Yl5YeUJ6XPVOAPzcu3n9-bzz4Wfg/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0019A.jpg"
+    "imagen": "https://drive.google.com/file/d/1WkYFKJw6Gy6WHxhnLfET0qIuMngNIwoL/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0011A",
@@ -1692,7 +1692,7 @@
     "alternativa": "VTC0019A",
     "clave": "TOMA INCRUSTAR|16A|2P+T|IP67|110 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/17fgr_v9NHFDkswTt2PHVwfXttXo8koWI/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0011A.jpg"
+    "imagen": "https://drive.google.com/file/d/16yDj3fuKh84miRK14c7G0h-KWzbxKvlO/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0017A",
@@ -1707,7 +1707,7 @@
     "alternativa": "VTC0012A / VTC0004A",
     "clave": "CLAVIJA 45°|16A|2P+T|IP67|110 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1LOCf4zfmn_ejjad4qFITosBTkew65ZjU/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0017A.jpg"
+    "imagen": "https://drive.google.com/file/d/16N_QDJH8OwcMg2CQ0xhZ2kbG-UhZkTPR/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0012A",
@@ -1722,7 +1722,7 @@
     "alternativa": "VTC0004A / VTC0017A",
     "clave": "CLAVIJA|16A|2P+T|IP67|110 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1Ac94NDse9Mp-mkpkgBWeKrFVs5wsowGo/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0012A.jpg"
+    "imagen": "https://drive.google.com/file/d/1OgYa9ERgpvRoqNwdfXXA3aqrSD_KrpMt/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0013A",
@@ -1737,7 +1737,7 @@
     "alternativa": "VTC0005A",
     "clave": "TOMA SOBREPONER|32A|2P+T|IP67|110 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1utyonBER7Z6OYTFcbblXyGbUAJTd7i1a/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0013A.jpg"
+    "imagen": "https://drive.google.com/file/d/192oINdiPEq6tRJrfedrwdNB7xIakDLVK/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0014A",
@@ -1752,7 +1752,7 @@
     "alternativa": "VTC0006A",
     "clave": "TOMA AEREA|32A|2P+T|IP67|110 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1J0aYU6r7X0eYOsQw4CmrIWznjOkP99ic/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0014A.jpg"
+    "imagen": "https://drive.google.com/file/d/1qVbH3BVLQhmZ_4s48St5F9mDxw-6V-LH/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0015A",
@@ -1767,7 +1767,7 @@
     "alternativa": "VTC0007A",
     "clave": "TOMA INCRUSTAR|32A|2P+T|IP67|110 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1Fp4Xr-iLJ9nNsCji87Jf3CYI78SGN7xx/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0015A.jpg"
+    "imagen": "https://drive.google.com/file/d/1Of5QHxQbvk5nEVlM-4hcyvDgT2U2CrU6/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0018A",
@@ -1782,7 +1782,7 @@
     "alternativa": "VTC0008A / VTC0016A",
     "clave": "CLAVIJA 45°|32A|2P+T|IP67|110 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1mCxy-eF-yNTL9jAZ6QZPANkB_avXnVNG/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0018A.jpg"
+    "imagen": "https://drive.google.com/file/d/1Ej3GeBofY5chLRjXxQeFST_JyFVHHpkN/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0016A",
@@ -1797,7 +1797,7 @@
     "alternativa": "VTC0008A / VTC0018A",
     "clave": "CLAVIJA|32A|2P+T|IP67|110 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1YZhIbevbTdgFbhpkWggOJZdF4GUEq2_Y/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0016A.jpg"
+    "imagen": "https://drive.google.com/file/d/1vpaGmUnc9ZI1-yTH-N4MFft5hWF0vzSa/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0001D",
@@ -1812,7 +1812,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA SOBREPONER|32A|3P+N+T|IP67|500 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1FqzIePGn2wClHMU6mAgbWNmu9TnCicXp/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0001D.jpg"
+    "imagen": "https://drive.google.com/file/d/1zfJHTa3fKwEyWmdSUv3i7JXGqnm40O6r/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0011D",
@@ -1827,7 +1827,7 @@
     "alternativa": "VTC0002D (NO APTO PARA CAJA MULTISERVICIO)",
     "clave": "TOMA INCRUSTAR|32A|3P+N+T|IP67|500 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1dvbrzX8xV8dTTrBFcF1ojHCyEvL_UR-c/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0011D.jpg"
+    "imagen": "https://drive.google.com/file/d/1ZzjG53YuLXR90Kefem8ofcwrK6v3w38s/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0002D",
@@ -1842,7 +1842,7 @@
     "alternativa": "VTC0011D (APTO PARA CAJA MULTISERVICIO)",
     "clave": "TOMA INCRUSTAR|32A|3P+N+T|IP67|500 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1FYQPVIhfUbGZnAUFpioBx5w6xvTD41JO/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0002D.jpg"
+    "imagen": "https://drive.google.com/file/d/1wrGLaKsCxuTeozLAce7N4tk8QDUDdi9j/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0010D",
@@ -1857,7 +1857,7 @@
     "alternativa": "VTC0003D",
     "clave": "CLAVIJA 45°|32A|3P+N+T|IP67|500 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1CLGUPOqGtXL6y0BwK0VeEKoEx_MumjqW/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0010D.jpg"
+    "imagen": "https://drive.google.com/file/d/1EIqlmKpIsBfkPOWtjUHf6neM4Csar_LT/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0003D",
@@ -1872,7 +1872,7 @@
     "alternativa": "VTC0010D",
     "clave": "CLAVIJA|32A|3P+N+T|IP67|500 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1d3QmwoG5AExvifvoh2tcE8WUtMsDqSL6/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0003D.jpg"
+    "imagen": "https://drive.google.com/file/d/1giXZYaPbXM_31XvrEC0NiOeSGDH1MuzM/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0004D",
@@ -1887,7 +1887,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA SOBREPONER|63A|3P+N+T|IP67|500 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1y9ySqEb2cw-AXKd7Sqwd89hpukFageLb/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0004D.jpg"
+    "imagen": "https://drive.google.com/file/d/1Bh_QE4gw55dAmPd3q7YY8xnF2RL8kuNn/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0005D",
@@ -1902,7 +1902,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA INCRUSTAR|63A|3P+N+T|IP67|500 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/13euwyto0qYopU6QPpfsvRFWl4R3n2XIN/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0005D.jpg"
+    "imagen": "https://drive.google.com/file/d/1rYZSHX3S9GWQAIg1yg7CjNYMrJMXQzw-/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0006D",
@@ -1917,7 +1917,7 @@
     "alternativa": "NO APLICA",
     "clave": "CLAVIJA|63A|3P+N+T|IP67|500 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1OUBcAmmYJ84lJEDO17nMAYynjJzI3AQF/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0006D.jpg"
+    "imagen": "https://drive.google.com/file/d/1lTBPAAPYyJITFKWl0hy20gqODlBdMc3r/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0007D",
@@ -1932,7 +1932,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA SOBREPONER|125A|3P+N+T|IP67|500 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1HO3YHbmqhuhFRpvQgc0HYVrqEzHCdRBo/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0007D.jpg"
+    "imagen": "https://drive.google.com/file/d/1MgOTHfBsxZEbABrMrDxX9J5iGKqOpl-u/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0008D",
@@ -1947,7 +1947,7 @@
     "alternativa": "NO APLICA",
     "clave": "TOMA INCRUSTAR|125A|3P+N+T|IP67|500 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/19HMlgsbSs4nFnO7PUx6SpKR4AqR1evgn/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0008D.jpg"
+    "imagen": "https://drive.google.com/file/d/1ciD7GqHZ1qTkRQKSsCVOeUMk_6YkiR54/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0009D",
@@ -1962,7 +1962,7 @@
     "alternativa": "NO APLICA",
     "clave": "CLAVIJA|125A|3P+N+T|IP67|500 VAC",
     "fichaTecnica": "https://drive.google.com/file/d/1v14OWO2ozbzjx757WjnOFM6uIqTG6JI-/view?usp=drivesdk",
-    "imagen": "assets/images/VTC0009D.jpg"
+    "imagen": "https://drive.google.com/file/d/1lTPmzjD6BN7xljE4CS7zzHwTrfnJE5EK/view?usp=drivesdk"
   },
   {
     "codigo": "VTC0001E",
