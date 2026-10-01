@@ -1,8 +1,9 @@
 {
-  "rewrites": [
+  "redirects": [
     {
       "source": "/",
-      "destination": "/portal-demo.html"
+      "destination": "/portal-demo.html",
+      "permanent": false
     }
   ]
 }
