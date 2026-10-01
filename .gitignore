@@ -3,3 +3,12 @@ __pycache__/
 *.pyc
 .venv/
 download_images.py
+.env
+
+*.xlsx
+pedidos_generados/
+*_BACKUP*
+*.backup
+
+data/clientes.json
+data/contactos-comerciales.json

@@ -1,0 +1,10 @@
+﻿[
+  {
+    "vendedor": "VENDEDOR DEMO",
+    "emailVendedor": "demo-vendedor@ejemplo.com",
+    "gerente": "GERENTE DEMO",
+    "emailGerente": "demo-gerente@ejemplo.com",
+    "servicioCliente": "SERVICIO DEMO",
+    "emailServicioCliente": "demo-servicio@ejemplo.com"
+  }
+]

@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="description" content="Portal B2B de pedidos VCP ELECTRIC." />
+		<title>VCP ELECTRIC | Portal B2B de Pedidos</title>
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
+		<link rel="stylesheet" href="portal.css" />
+	</head>
+	<body>
+		<header class="site-header">
+			<div class="brand-lockup">
+				<img class="brand-logo" src="assets/Mesa de trabajo 1_11.png" alt="VCP Electric" />
+				<p class="brand-context">PORTAL B2B DE PEDIDOS</p>
+			</div>
+			<a class="button button-outline" href="index.html">Orden de compra</a>
+		</header>
+
+		<main class="page-shell">
+			<!-- PASO 1: CLIENTE -->
+			<section class="panel" id="panelCliente">
+				<div class="panel-heading">
+					<div>
+						<p class="eyebrow">Portal B2B VCP</p>
+						<h2>Identifique su empresa para continuar</h2>
+					</div>
+				</div>
+
+				<form id="clienteForm" class="cliente-busqueda">
+					<label class="filter-field">
+						<span>RUC / CÃ©dula</span>
+						<input id="clienteRuc" type="text" inputmode="numeric" placeholder="Ej. 1791728882001" autocomplete="off" />
+					</label>
+					<button id="buscarClienteBtn" class="button button-dark" type="submit">Buscar cliente</button>
+				</form>
+				<p id="clienteError" class="panel-note cliente-error is-hidden"></p>
+
+				<div id="clienteInfo" class="cliente-card is-hidden">
+					<p class="cliente-card-check">âœ“ Cliente identificado</p>
+					<div class="cliente-info">
+						<div><span>Empresa</span><strong id="infoEmpresa">-</strong></div>
+						<div><span>RUC</span><strong id="infoRuc">-</strong></div>
+						<div><span>E-mail</span><strong id="infoEmail">-</strong></div>
+						<div><span>Vendedor</span><strong id="infoVendedor">-</strong></div>
+						<div><span>Descuento VTC</span><strong id="infoDescuento">-</strong></div>
+					</div>
+					<button id="cambiarClienteBtn" class="button button-outline-dark" type="button">Cambiar cliente</button>
+				</div>
+			</section>
+
+			<!-- PASO 2: BODEGA -->
+			<section class="panel" id="panelBodega">
+				<div class="panel-heading">
+					<div>
+						<p class="eyebrow">Paso 02</p>
+						<h2>Bodega de despacho</h2>
+					</div>
+				</div>
+				<div class="bodega-picker" role="radiogroup" aria-label="Bodega de despacho">
+					<label class="bodega-option"><input type="radio" name="bodega" value="quito" disabled /> Quito</label>
+					<label class="bodega-option"><input type="radio" name="bodega" value="guayaquil" disabled /> Guayaquil</label>
+				</div>
+				<p id="bodegaNota" class="panel-note">Identifique su empresa con el RUC/CÃ©dula para habilitar la bodega de despacho.</p>
+			</section>
+
+			<!-- PASO 3: CATÃLOGO -->
+			<section class="panel" id="panelCatalogo">
+				<div class="panel-heading">
+					<div>
+						<p class="eyebrow">Paso 03</p>
+						<h2>CatÃ¡logo de productos</h2>
+					</div>
+					<span id="catalogoCount" class="results-count">0 productos</span>
+				</div>
+				<label class="filter-field">
+					<span>Buscar por cÃ³digo, descripciÃ³n, referencia, familia o tipo</span>
+					<input id="catalogoBuscar" type="search" placeholder="Ej. VTC0001B, toma sobreponer, TSP16/113-6, 220V" autocomplete="off" />
+				</label>
+				<div id="catalogoGrid" class="catalogo-grid"></div>
+			</section>
+
+			<!-- PASO 4: CARRITO -->
+			<section class="panel" id="panelCarrito">
+				<div class="panel-heading">
+					<div>
+						<p class="eyebrow">Paso 04</p>
+						<h2>Carrito de pedido</h2>
+					</div>
+					<span id="carritoCount" class="results-count">0 items</span>
+				</div>
+				<div id="carritoVacio" class="panel-note">TodavÃ­a no has agregado productos al carrito.</div>
+				<div id="carritoTableWrap" class="is-hidden">
+					<table class="carrito-table">
+						<thead>
+							<tr>
+								<th>CÃ³digo</th>
+								<th>DescripciÃ³n</th>
+								<th>Precio lista</th>
+								<th>Dscto.</th>
+								<th>Precio neto</th>
+								<th>Cantidad</th>
+								<th>Total lÃ­nea</th>
+								<th>Stock</th>
+								<th></th>
+							</tr>
+						</thead>
+						<tbody id="carritoBody"></tbody>
+					</table>
+				</div>
+				<div class="carrito-resumen">
+					<div><span>Subtotal</span><strong id="resSubtotal">$0.00</strong></div>
+					<div><span>IVA 15%</span><strong id="resIva">$0.00</strong></div>
+					<div class="carrito-total"><span>Total</span><strong id="resTotal">$0.00</strong></div>
+				</div>
+				<button id="generarOdfBtn" class="button button-dark" type="button" disabled>Generar ODF</button>
+			</section>
+
+			<!-- ODF -->
+			<section class="panel odf-panel is-hidden" id="panelOdf">
+				<div id="odfContent"></div>
+				<div class="odf-actions no-print">
+					<button id="imprimirOdfBtn" class="button button-outline" type="button">Imprimir / Guardar PDF</button>
+					<button id="enviarOdfBtn" class="button button-outline-dark" type="button" disabled>Correo disponible solo en entorno local</button>
+				</div>
+				<p id="enviarOdfStatus" class="panel-note is-hidden"></p>
+			</section>
+		</main>
+
+		<footer class="site-footer"><span>VCP ELECTRIC</span><span>Portal B2B de pedidos â€” Fase 1</span><span>Desarrollado por Paulo RomÃ¡n</span></footer>
+		<script src="portal-demo.js"></script>
+	</body>
+</html>
+
